@@ -8,5 +8,5 @@ ECE + AIML student at MIT WPU.
 - 🌱 Currently learning: RAG pipelines and vector databases
 - 👯 Looking to collaborate on: full-stack or applied AI/ML projects
 - 💬 Ask me about: React/Node.js, TensorFlow, LangChain, or embedded ML (ESP32/RPI)
-- 📫 Reach me: imabhi2304@gmail.com
+- 📫 Reach me: abhigyan.varma23@gmail.com
 - ⚡ Fun fact: my guitar skills compile with more errors than my code
